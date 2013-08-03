@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="MyAppTheme" parent="@android:style/Theme.Black.NoTitleBar"/>
+    <style name="MyAppTheme" parent="@android:style/Theme.Black"/>
 </resources>
