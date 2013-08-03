@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Toast</string>
+
+    <string name="btn_txt_1">Display default toast</string>
+    <string name="btn_txt_2">Display custom toast</string>
+
+    <string name="image_cd">content description</string>
+</resources>
